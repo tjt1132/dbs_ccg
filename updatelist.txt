@@ -1,8 +1,7 @@
 dbs	05-01-18
-plugins/dbs/plugininfo.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/plugininfo.txt	0
-plugins/dbs/formats.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/formats.txt	0
-plugins/dbs/version.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/version.txt	0
-plugins/dbs/sets/carddata.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/carddata.txt	0
-
+plugins/dbs/plugininfo.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/plugininfo.txt	1600
+plugins/dbs/formats.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/formats.txt	3948
+plugins/dbs/version.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/version.txt	28124
+plugins/dbs/sets/carddata.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/carddata.txt	65595
 CardGeneralURLs:
 http://www.dbs-cardgame.com/images/cardlist/cardimg/
