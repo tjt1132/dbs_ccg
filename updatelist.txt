@@ -1,4 +1,4 @@
-dbs_ccg	04-30-18
+dbs	04-30-18
 plugins/dbs/plugininfo.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/plugininfo.txt	203638
 plugins/dbs/formats.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/formats.txt	10056
 plugins/dbs/version.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/version.txt	28121
