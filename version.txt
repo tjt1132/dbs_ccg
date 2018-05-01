@@ -2,7 +2,7 @@
 
   <lastupdateYYMMDD>180430</lastupdateYYMMDD>
   <versionurl>https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/version.txt</versionurl>
-  <updateurl>https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/plugininfo.txt</updateurl>
+  <updateurl>https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/updatelist.txt</updateurl>
   <message>First version, very lean.</message>
 
 </version>
