@@ -1,0 +1,6 @@
+Name	Set	ImageFile	Code	SeriesName	Type	Color	Power	Energy	ComboPower	Combo Energy	Character	SpecialTrait	Era	Rarity
+Super Saiyan God Son Goku / SSGSS Son Goku, The Soul Striker	SD1	SD1-01,SD1-01_b	SD1-01	Series 1 Starter – The Awakening	Leader	Blue	10000				Son Goku	Saiyan	Resurrection ‘F’ Saga	ST
+God Rush Son Goku	SD1	SD1-02	SD1-02	Series 1 Starter – The Awakening	Battle	Blue	25000	6(3)	1	10000	Son Goku	Saiyan	Battle of Gods Sage	ST
+SS3 Son Goku, Maximum Energy	SD1	SD1-03	SD1-03	Series 1 Starter – The Awakening	Battle	Blue	20000	5(2)	1	10000	Son Goku	Saiyan	Battle of Gods Sage	ST
+Rapid Spirit Ball Son Goku	SD1	SD1-04	SD1-04	Series 1 Starter – The Awakening	Battle	Blue	15000	3(1)	0	5000	Son Goku	Saiyan	Battle of Gods Sage	ST
+Vegeta, Prince of Speed	SD1	SD1-05	SD1-05	Series 1 Starter – The Awakening	Battle	Blue	20000	5(3)	1	10000	Vegeta	Saiyan	Battle of Gods Sage	ST

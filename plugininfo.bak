@@ -1,0 +1,110 @@
+<plugin>
+
+  <deckzone>
+    <label>Deck</label>
+    <gamezonetoloadto>Deck</gamezonetoloadto>
+    <shuffle>yes</shuffle>
+  </deckzone>
+
+  <deckzone>
+    <label>Leader</label>
+    <gamezonetoloadto>Leader</gamezonetoloadto>
+  </deckzone>
+
+  <deckzone>
+    <label>Lives</label>
+    <gamezonetoloadto>Lives</gamezonetoloadto>
+  </deckzone>
+
+  <deckzone>
+    <label>StartingHand</label>
+    <gamezonetoloadto>StartingHand</gamezonetoloadto>
+  </deckzone>
+
+  <gamezone>
+    <label>Hand</label>
+    <visibletoowner>yes</visibletoowner>
+  </gamezone>
+
+  <gamezone>
+    <label>Deck</label>
+  </gamezone>
+
+  <gamezone>
+    <label>Leader</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+  </gamezone>
+
+  <gamezone>
+    <label>Lives</label>
+  </gamezone>
+
+  <gamezone>
+    <label>Discard</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+  </gamezone>
+
+  <gamezone>
+    <label>Battle</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+  </gamezone>
+
+  <gamezone>
+    <label>Combo</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+  </gamezone>
+
+  <gamezone>
+    <label>Energy</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+  </gamezone>
+
+  <gamezone>
+    <label>StartingHand</label>
+    <visibletoowner>yes</visibletoowner>
+  </gamezone>
+
+  <phase><label>Settup</label></phase>
+  <phase><label>Reset</label></phase>
+  <phase><label>Charge</label></phase>
+  <phase><label>Main</label></phase>
+  <phase><label>Battle</label></phase>
+  <phase><label>Counter</label></phase>
+  <phase><label>Combo</label></phase>
+  <phase><label>Discard</label></phase>
+  <phase><label>End</label></phase>
+
+  <generalfunction>
+    <label>Draw</label>
+    <kind>DRAWCARD</kind>
+    <includeasbutton>yes</includeasbutton>
+  </generalfunction>
+
+  <generalfunction>
+    <label>Pass</label>
+    <kind>NEXTTURN</kind>
+    <includeasbutton>yes</includeasbutton>
+  </generalfunction>
+
+  <cardfunction>
+    <label>Use</label>
+    <kind>MAKERIGHT90DEGREES</kind>
+    <includeasbutton>yes</includeasbutton>
+  </cardfunction>
+
+  <cardfunction>
+    <label>Reset</label>
+    <kind>CLEARCARD</kind>
+    <includeasbutton>yes</includeasbutton>
+  </cardfunction>
+
+  <definition>
+    <kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+  </definition>
+
+</plugin>

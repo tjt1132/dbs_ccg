@@ -1,8 +1,1 @@
-<formatdefinitions>
-
-  <format>
-       <label>Series 1 Starter</label>
-       <set>SD1</set>
-  </format>
-
-</formatdefinitions>
+<formatdefinitions></formatdefinitions>
