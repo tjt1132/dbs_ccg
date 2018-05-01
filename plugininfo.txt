@@ -71,9 +71,8 @@
 
   <phase><label>Settup</label></phase>
   <phase><label>Reset</label></phase>
-  <phase><label>Draw</label></phase>
-  <phase><label>AddEnergy</label></phase>
-  <phase><label>Play</label></phase>
+  <phase><label>Charge</label></phase>
+  <phase><label>Main</label></phase>
   <phase><label>Battle</label></phase>
   <phase><label>Counter</label></phase>
   <phase><label>Combo</label></phase>
