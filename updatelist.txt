@@ -5,3 +5,5 @@ plugins/dbs/version.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master
 plugins/dbs/sets/carddata.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/carddata.txt	57716
 plugins/dbs/bot.jpg	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/images/bot.jpg	31432
 plugins/dbs/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/images/cardback.jpg	-53470
+CardGeneralURLs:
+https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/images/cards
