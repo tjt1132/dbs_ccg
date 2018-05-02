@@ -1,3 +1,5 @@
 dbs	05-01-18
 plugins/dbs/plugininfo.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/plugininfo.txt	96567
 plugins/dbs/sets/carddata.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/carddata.txt	57716
+plugins/dbs/bot.jpg	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/images/bot.jpg	31432
+plugins/dbs/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/images/cardback.jpg	-53470
