@@ -1,1 +1,8 @@
-<formatdefinitions></formatdefinitions>
+<formatdefinitions>
+
+<format>
+     <label>Starter Set 1 - The Awakening</label>
+     <set>SD1</set>
+</format>
+
+</formatdefinitions>
