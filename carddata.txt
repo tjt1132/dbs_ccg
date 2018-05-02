@@ -1,6 +1,120 @@
-Name	Set	ImageFile	Code	SetName	Type	Color	Power	Energy	ComboPower	ComboEnergy	Character	SpecialTrait	Era	Rarity
+Name	Set	ImageFile	Code	SetName	Type	Color	Power	Energy	ComboPower	ComboEnergy	Character	SpecialTrait	Era	Rarity	Skill
 Super Saiyan God Son Goku	SD1	SD1-01,SD1-01_b	SD1-01	Series 1 Starter	Leader	Blue	10000				Son Goku	Saiyan	Resurrection F Saga	ST
-God Rush Son Goku	SD1	SD1-02	SD1-02	Series 1 Starter	Battle	Blue	25000	6(3)	10000	1	Son Goku	Saiyan	Battle of Gods Sage	ST
-SS3 Son Goku, Maximum Energy	SD1	SD1-03	SD1-03	Series 1 Starter	Battle	Blue	20000	5(2)	10000	1	Son Goku	Saiyan	Battle of Gods Sage	ST
-Rapid Spirit Ball Son Goku	SD1	SD1-04	SD1-04	Series 1 Starter	Battle	Blue	15000	3(1)	5000	0	Son Goku	Saiyan	Battle of Gods Sage	ST
-Vegeta, Prince of Speed	SD1	SD1-05	SD1-05	Series 1 Starter	Battle	Blue	20000	5(3)	10000	1	Vegeta	Saiyan	Battle of Gods Sage	ST
+God Rush Son Goku	SD1	SD1-02	SD1-02	Series 1 Starter	Battle	Blue	25000	6(3)	10000	1	Son Goku	Saiyan	Battle of Gods Saga	ST
+SS3 Son Goku, Maximum Energy	SD1	SD1-03	SD1-03	Series 1 Starter	Battle	Blue	20000	5(2)	10000	1	Son Goku	Saiyan	Battle of Gods Saga	ST
+Rapid Spirit Ball Son Goku	SD1	SD1-04	SD1-04	Series 1 Starter	Battle	Blue	15000	3(1)	5000	0	Son Goku	Saiyan	Battle of Gods Saga	ST
+Vegeta, Prince of Speed	SD1	SD1-05	SD1-05	Series 1 Starter	Battle	Blue	20000	5(3)	10000	1	Vegeta	Saiyan	Battle of Gods Saga	ST
+Champa	BT1	BT1-001	BT1-001	Series 1 Booster	Leader	Red	10000				Champa	God	Champa Saga	R	AUTO ONCE PER TURN When your Battle Card attacks a Leader Card, if the attacking card 15000 or more power, draw 1 card. AWAKEN When your life is at 4 or less: You may draw 2 cards and flip this card over.
+Vados	BT1	BT1-002	BT1-002	Series 1 Booster	Leader	Red	10000				Vados	God	Champa Saga	UC
+Hit	BT1	BT1-003	BT1-003	Series 1 Booster	Leader	Red	10000				Hit	Alien	Champa Saga	UC
+Destructive Terror Champa	BT1	BT1-004	BT1-004	Series 1 Booster	Battle	Red	25000	6(2)	10000	1	Champa	God	Champa Saga	SR
+Furthering Destruction Champa	BT1	BT1-005	BT1-005	Series 1 Booster	Battle	Red	16000	3(2)	10000	1	Champa	God	Champa Saga	UC
+Scheming Champa	BT1	BT1-006	BT1-006	Series 1 Booster	Battle	Red	10000	2(1)	5000	0	Champa	God	Champa Saga	C
+Manipulating God Champa	BT1	BT1-007	BT1-007	Series 1 Booster	Battle	Red	5000	1(1)	5000	0	Champa	God	Champa Saga	C
+Bewitching God Vados	BT1	BT1-008	BT1-008	Series 1 Booster	Battle	Red	20000	5(2)	10000	1	Vados	God	Champa Saga	R
+Calm-Hearted Vados	BT1	BT1-009	BT1-009	Series 1 Booster	Battle	Red	15000	3(1)	5000	0	Vados	God	Champa Saga	UC
+Divine Aide Vados	BT1	BT1-010	BT1-010	Series 1 Booster	Battle	Red	12000	2(1)	0	0	Vados	God	Champa Saga	C
+Lightning-Fast Hit	BT1	BT1-011	BT1-011	Series 1 Booster	Battle	Red	25000	6(2)	10000	1	Hit	Alien	Champa Saga	SR
+Lightning-Fast Hit (SPR)	BT1	BT1-011_SPR	BT1-011_SPR	Series 1 Booster	Battle	Red	25000	6(2)	10000	1	Hit	Alien	Champa Saga	SPR
+Hit	BT1	BT1-012	BT1-012	Series 1 Booster	Battle	Red	15000	2(1)	5000	0	Hit	Alien	Champa Saga	UC
+Raging Cabba	BT1	BT1-013	BT1-013	Series 1 Booster	Battle	Red	20000	4(2)	10000	1	Cabba	Alien/Saiyan	Champa Saga	R
+Saiyan Cabba	BT1	BT1-014	BT1-014	Series 1 Booster	Battle	Red	5000	1(1)	5000	0	Cabba	Alien/Saiyan	Champa Saga	C
+Terror Assault Frost	BT1	BT1-015	BT1-015	Series 1 Booster	Battle	Red	15000	4(2)	10000	1	Frost	Alien/Frieza Clan	Champa Saga	UC
+Unceasing Evolution Frost	BT1	BT1-016	BT1-016	Series 1 Booster	Battle	Red	15000	3(1)	5000	0	Frost	Alien/Frieza Clan	Champa Saga	C
+Evolution Premonition Frost	BT1	BT1-017	BT1-017	Series 1 Booster	Battle	Red	5000	1(1)	5000	0	Frost	Alien/Frieza Clan	Champa Saga	C
+Confident Botamo	BT1	BT1-018	BT1-018	Series 1 Booster	Battle	Red	15000	3(1)	5000	0	Botamo	Alien	Champa Saga	UC
+Botamo of Universe 6	BT1	BT1-019	BT1-019	Series 1 Booster	Battle	Red	5000	1(1)	5000	0	Botamo	Alien	Champa Saga	C
+Iron Wall Magetta	BT1	BT1-020	BT1-020	Series 1 Booster	Battle	Red	15000	3(2)	5000	0	Magetta	Alien	Champa Saga	UC
+Magetta of Universe 6	BT1	BT1-021	BT1-021	Series 1 Booster	Battle	Red	10000	2(1)	5000	0	Magetta	Alien	Champa Saga	C
+Universe 6 Supreme Kai	BT1	BT1-022	BT1-022	Series 1 Booster	Battle	Red	20000	4(2)	10000	1	Universe 6 Supreme Kai	God	Champa Saga	C
+Kai Attendant of Universe 6	BT1	BT1-023	BT1-023	Series 1 Booster	Battle	Red	10000	1(1)	5000	0	Supreme Kai’s Attendant	God	Champa Saga	C
+Assasination Plot	BT1	BT1-024	BT1-024	Series 1 Booster	Extra	Red		4(2)						C
+Vados’s Assistance	BT1	BT1-025	BT1-025	Series 1 Booster	Extra	Red		1(1)						C
+Fickle Destruction	BT1	BT1-026	BT1-026	Series 1 Booster	Extra	Red		1(1)						C
+Cabba’s Awakening	BT1	BT1-027	BT1-027	Series 1 Booster	Extra	Red		0(0)						C
+Vegeta	BT1	BT1-028	BT1-028	Series 1 Booster	Leader	Blue	10000				Vegeta	Saiyan	Resurrection F Saga	R
+Beerus	BT1	BT1-029	BT1-029	Series 1 Booster	Leader	Blue	10000				Beerus	God	Battle of Gods Saga	UC
+Son Goku	BT1	BT1-030	BT1-030	Series 1 Booster	Leader	Blue	10000				Son Goku	Saiyan	Resurrection F Saga	UC
+God Break Son Goku	BT1	BT1-031	BT1-031	Series 1 Booster	Battle	Blue	30000	7(3)	10000	1	Son Goku	Saiyan	Resurrection F Saga	SR
+God Break Son Goku	BT1	BT1-031_SPR	BT1-031_SPR	Series 1 Booster	Battle	Blue	30000	7(3)	10000	1	Son Goku	Saiyan	Resurrection F Saga	SPR
+Overflowing Spirit SSGSS Son Goku	BT1	BT1-032	BT1-032	Series 1 Booster	Battle	Blue	15000	4(2)	10000	1	Son Goku	Saiyan	Champa Saga	UC
+Kind Saiyan Son Goku	BT1	BT1-033	BT1-033	Series 1 Booster	Battle	Blue	5000	1(1)	5000	0	Son Goku	Saiyan	Battle of Gods Saga	C
+Mighty Striker Son Gohan	BT1	BT1-034	BT1-034	Series 1 Booster	Battle	Blue	25000	4(1)	10000	1	Son Gohan: Adolescence	Saiyan/Earthling	Resurrection F Saga	C
+Son Goten	BT1	BT1-035	BT1-035	Series 1 Booster	Battle	Blue	15000	2(1)	5000	0	Son Goten	Saiyan/Earthling	Battle of Gods Saga	C
+God Charge Vegeta	BT1	BT1-036	BT1-036	Series 1 Booster	Battle	Blue	25000	6(3)	10000	1	Vegeta	Saiyan	Resurrection F Saga	R
+Assailant Vegeta	BT1	BT1-037	BT1-037	Series 1 Booster	Battle	Blue	15000	3(1)	5000	0	Vegeta	Saiyan	Resurrection F Saga	UC
+Vegeta	BT1	BT1-038	BT1-038	Series 1 Booster	Battle	Blue	20000	3(1)	5000	0	Vegeta	Saiyan	Resurrection F Saga	C
+Trunks	BT1	BT1-039	BT1-039	Series 1 Booster	Battle	Blue	15000	2(1)	5000	0	Trunks: Youth	Saiyan/Earthling	Battle of Gods Saga	C
+Bulma, God Tempter	BT1	BT1-040	BT1-040	Series 1 Booster	Battle	Blue	1000	1(1)	5000	0	Bulma	Earthling	Resurrection F Saga	C
+Beerus, General of Demolition	BT1	BT1-041	BT1-041	Series 1 Booster	Battle	Blue	25000	7(3)	10000	1	Beerus	God	Resurrection F Saga	SR
+Energy Boost Beerus	BT1	BT1-042	BT1-042	Series 1 Booster	Battle	Blue	20000	4(2)	10000	1	Beerus	God	Champa Saga	UC
+Whis, Judge of the Gods	BT1	BT1-043	BT1-043	Series 1 Booster	Battle	Blue	40000	12(6)	10000	1	Whis	God	Resurrection F Saga	R
+Whis, The Resting Attendant	BT1	BT1-044	BT1-044	Series 1 Booster	Battle	Blue	10000	4(2)	10000	1	Whis	God	Resurrection F Saga	UC
+Boost Attack Piccolo	BT1	BT1-045	BT1-045	Series 1 Booster	Battle	Blue	12000	2(1)	0	0	Piccolo	Namekian/God	Champa Saga	C
+Taunting Piccolo	BT1	BT1-046	BT1-046	Series 1 Booster	Battle	Blue	10000	2(1)	5000	0	Piccolo	Namekian/God	Resurrection F Saga	C
+Energy Boosted Majin Buu	BT1	BT1-047	BT1-047	Series 1 Booster	Battle	Blue	5000	1(1)	5000	0	Majin Buu	Majin	Champa Saga	C
+Ultimate Judgment Jaco	BT1	BT1-048	BT1-048	Series 1 Booster	Battle	Blue	16000	3(1)	5000	0	Jaco	Galactic Patrol	Champa Saga	C
+Mysterious Presence Monaka	BT1	BT1-049	BT1-049	Series 1 Booster	Battle	Blue	15000	3(1)	5000	0	Monaka	Alien	Champa Saga	UC
+Guardian North Kai	BT1	BT1-050	BT1-050	Series 1 Booster	Battle	Blue	5000	1(1)	5000	0	North Kai	God	Battle of Gods Saga	C
+Result of Training	BT1	BT1-051	BT1-051	Series 1 Booster	Extra	Blue		5(2)						UC
+Objection	BT1	BT1-052	BT1-052	Series 1 Booster	Extra	Blue		2(1)						C
+Senzu Bean	BT1	BT1-053	BT1-053	Series 1 Booster	Extra	Blue		1(1)						C
+Encouraging Presence Monaka	BT1	BT1-054	BT1-054	Series 1 Booster	Extra	Blue		1(1)						C
+Whis’s Coercion	BT1	BT1-055	BT1-055	Series 1 Booster	Extra	Blue		1(1)						C
+Son Goku	BT1	BT1-056	BT1-056	Series 1 Booster	Leader	Green	10000				Son Goku	Saiyan	Battle of Gods Saga	UC
+Broly	BT1	BT1-057	BT1-057	Series 1 Booster	Leader	Green	10000				Broly	Saiyan	Broly Saga	R
+Son Gohan	BT1	BT1-058	BT1-058	Series 1 Booster	Leader	Green	10000				Son Gohan: Adolescence	Saiyan/Earthling	Battle of Gods Saga	UC
+Awakening Rage Son Goku	BT1	BT1-059	BT1-059	Series 1 Booster	Battle	Green	25000	6(2)	10000	1	Son Goku	Saiyan	Frieza Saga	SR
+Son Goku	BT1	BT1-060	BT1-060	Series 1 Booster	Battle	Green	15000	2(1)	5000	0	Son Goku	Saiyan	Battle of Gods Saga	C
+Friend-Summoning Son Gohan	BT1	BT1-061	BT1-061	Series 1 Booster	Battle	Green	10000	2(1)	5000	0	Son Gohan: Youth	Saiyan/Earthling	Frieza Saga	UC
+Son Gohan, Family of Justice	BT1	BT1-062	BT1-062	Series 1 Booster	Battle	Green	10000	2(1)	5000	0	Son Gohan: Adolescence	Saiyan/Earthling	Broly Saga	C
+Son Goten, Family of Justice	BT1	BT1-063	BT1-063	Series 1 Booster	Battle	Green	10000	2(2)	5000	0	Son Goten	Saiyan/Earthling	Broly Saga	C
+Raging Attacker Vegeta	BT1	BT1-064	BT1-064	Series 1 Booster	Battle	Green	20000	4(2)	10000	1	Vegeta	Saiyan	Battle of Gods Saga	R
+Furious Yell Vegeta	BT1	BT1-065	BT1-065	Series 1 Booster	Battle	Green	20000	4(2)	10000	1	Vegeta	Saiyan	Battle of Gods Saga	UC
+Tenacious Vegeta	BT1	BT1-066	BT1-066	Series 1 Booster	Battle	Green	10000	2(2)	5000	0	Vegeta	Saiyan	Battle of Gods Saga	C
+Implacable Trunks	BT1	BT1-067	BT1-067	Series 1 Booster	Battle	Green	15000	4(2)	10000	1	Trunks: Future	Saiyan/Earthling	Android Cell Saga	UC
+Slasher Trunks	BT1	BT1-068	BT1-068	Series 1 Booster	Battle	Green	10000	1(1)	5000	0	Trunks: Future	Saiyan/Earthling	Android Cell Saga	C
+Trunks, Protector of Children	BT1	BT1-069	BT1-069	Series 1 Booster	Battle	Green	12000	2(1)	0	0	Trunks: Youth	Saiyan/Earthling	Battle of Gods Saga	C
+Super Saiyan Gotenks	BT1	BT1-070	BT1-070	Series 1 Booster	Battle	Green	25000	5(2)	10000	1	Gotenks	Saiyan/Earthling	Battle of Gods Saga	R
+Energy Power Gotenks	BT1	BT1-071	BT1-071	Series 1 Booster	Battle	Green	15000	3(1)	5000	0	Gotenks	Saiyan/Earthling	Battle of Gods Saga	C
+Human Shield Krillin	BT1	BT1-072	BT1-072	Series 1 Booster	Battle	Green	5000	1(1)	5000	0	Krillin	Earthling	Frieza Saga	C
+Broly, The Rampaging Horror	BT1	BT1-073	BT1-073	Series 1 Booster	Battle	Green	30000	6(4)	10000	1	Broly	Saiyan	Broly Saga	SR
+Broly, The Rampaging Horror	BT1	BT1-073_SPR	BT1-073_SPR	Series 1 Booster	Battle	Green	30000	6(4)	10000	1	Broly	Saiyan	Broly Saga	SPR
+Rampaging Lifeform Bio-Broly	BT1	BT1-074	BT1-074	Series 1 Booster	Battle	Green	20000	5(2)	10000	1	Broly	Saiyan/Bio Warrior	Broly Saga	UC
+Rampaging Super Saiyan Broly	BT1	BT1-075	BT1-075	Series 1 Booster	Battle	Green	30000	6(2)	10000	1	Broly	Saiyan	Broly Saga	C
+Broly, Dawn of the Rampage	BT1	BT1-076	BT1-076	Series 1 Booster	Battle	Green	5000	1(1)	5000	0	Broly	Saiyan	Broly Saga	C
+Paragus, Controller of Monsters	BT1	BT1-077	BT1-077	Series 1 Booster	Battle	Green	10000	2(1)	5000	0	Paragus	Saiyan	Broly Saga	C
+Overflowing Bio Warrior Army	BT1	BT1-078	BT1-078	Series 1 Booster	Battle	Green	15000	2(2)	5000	0	Bio Warrior	Bio Warrior	Broly Saga	C
+King Vegeta’s Surprise Attack	BT1	BT1-079	BT1-079	Series 1 Booster	Extra	Green		1(1)						UC
+Full Power Energy	BT1	BT1-080	BT1-080	Series 1 Booster	Extra	Green		1(1)						C
+Broly’s Ring	BT1	BT1-081	BT1-081	Series 1 Booster	Extra	Green		1(1)						C
+Family Kamehameha	BT1	BT1-082	BT1-082	Series 1 Booster	Extra	Green		1(1)						C
+Frieza	BT1	BT1-083	BT1-083	Series 1 Booster	Leader	Yellow	10000				Frieza	Frieza Clan/Frieza’s Army	Resurrection F Saga	R
+Frieza	BT1	BT1-084	BT1-084	Series 1 Booster	Leader	Yellow	10000				Frieza	Frieza Clan/Frieza’s Army	Frieza Saga	UC
+Ginyu	BT1	BT1-085	BT1-085	Series 1 Booster	Leader	Yellow	10000				Ginyu	Ginyu Force/Frieza’s Army	Frieza Saga	UC
+Golden Frieza, Resurrected Terror	BT1	BT1-086	BT1-086	Series 1 Booster	Battle	Yellow	30000	7(3)	10000	1	Frieza	Frieza Clan/Frieza’s Army	Resurrection F Saga	SR
+Golden Frieza, Resurrected Terror	BT1	BT1-086_SPR	BT1-086_SPR	Series 1 Booster	Battle	Yellow	30000	7(3)	10000	1	Frieza	Frieza Clan/Frieza’s Army	Resurrection F Saga	SPR
+Full-Power Frieza	BT1	BT1-087	BT1-087	Series 1 Booster	Battle	Yellow	25000	6(2)	10000	1	Frieza	Frieza Clan/Frieza’s Army	Frieza Saga	R
+Frieza, Hellish Terror	BT1	BT1-088	BT1-088	Series 1 Booster	Battle	Yellow	15000	4(2)	10000	1	Frieza	Frieza Clan/Frieza’s Army	Frieza Saga	C
+Avenging Frieza	BT1	BT1-089	BT1-089	Series 1 Booster	Battle	Yellow	5000	1(1)	5000	0	Frieza	Frieza Clan/Frieza’s Army	Frieza Saga	C
+Mecha-Frieza, The Returning Terror	BT1	BT1-090	BT1-090	Series 1 Booster	Battle	Yellow	15000	4(2)	10000	1	Frieza	Frieza Clan/Frieza’s Army	Android Cell Saga	UC
+King Cold, Father of the Emperor	BT1	BT1-091	BT1-091	Series 1 Booster	Battle	Yellow	15000	4(3)	10000	1	King Cold	Frieza Clan	Android Cell Saga	R
+Sorbet, The Loyal Commander	BT1	BT1-092	BT1-092	Series 1 Booster	Battle	Yellow	1000	1(1)	5000	0	Sorbet	Frieza’s Army	Resurrection F Saga	UC
+Tagoma, The Loyal Warrior	BT1	BT1-093	BT1-093	Series 1 Booster	Battle	Yellow	15000	3(2)	5000	0	Tagoma	Frieza’s Army	Resurrection F Saga	UC
+Shisami, The Loyal Warrior	BT1	BT1-094	BT1-094	Series 1 Booster	Battle	Yellow	15000	4(2)	10000	1	Shisami	Frieza’s Army	Resurrection F Saga	UC
+Elite Force Captain Ginyu	BT1	BT1-095	BT1-095	Series 1 Booster	Battle	Yellow	25000	6(3)	10000	1	Ginyu	Ginyu Force/Frieza’s Army	Frieza Saga	SR
+Ginyu Force Recoome	BT1	BT1-096	BT1-096	Series 1 Booster	Battle	Yellow	10000	2(1)	5000	0	Recoome	Ginyu Force/Frieza’s Army	Frieza Saga	C
+Ginyu Force Burter	BT1	BT1-097	BT1-097	Series 1 Booster	Battle	Yellow	10000	2(1)	5000	0	Burter	Ginyu Force/Frieza’s Army	Frieza Saga	C
+Ginyu Force Jeice	BT1	BT1-098	BT1-098	Series 1 Booster	Battle	Yellow	10000	3(1)	5000	0	Jeice	Ginyu Force/Frieza’s Army	Frieza Saga	C
+Ginyu Force Guldo	BT1	BT1-099	BT1-099	Series 1 Booster	Battle	Yellow	2000	1(1)	5000	0	Guldo	Ginyu Force/Frieza’s Army	Frieza Saga	C
+Dodoria, The Emperor’s Attendant	BT1	BT1-100	BT1-100	Series 1 Booster	Battle	Yellow	12000	2(1)	0	0	Dodoria	Frieza’s Army	Frieza Saga	C
+Zarbon, The Emperor’s Attendant	BT1	BT1-101	BT1-101	Series 1 Booster	Battle	Yellow	15000	3(1)	5000	0	Zarbon	Frieza’s Army	Frieza Saga	C
+Appule	BT1	BT1-102	BT1-102	Series 1 Booster	Battle	Yellow	15000	2(1)	5000	0	Appule	Frieza’s Army	Frieza Saga	C
+Sui	BT1	BT1-103	BT1-103	Series 1 Booster	Battle	Yellow	15000	2(1)	5000	0	Sui	Frieza’s Army	Frieza Saga	C
+Banan	BT1	BT1-104	BT1-104	Series 1 Booster	Battle	Yellow	20000	3(1)	5000	0	Banan	Frieza’s Army	Frieza Saga	C
+Cui	BT1	BT1-105	BT1-105	Series 1 Booster	Battle	Yellow	12000	2(2)	5000	0	Cui	Frieza’s Army	Frieza Saga	C
+Recoome Eraser Gun	BT1	BT1-106	BT1-106	Series 1 Booster	Extra	Yellow		4(2)						UC
+Cold Bloodlust	BT1	BT1-107	BT1-107	Series 1 Booster	Extra	Yellow		1(1)						C
+Bad Ring Laser	BT1	BT1-108	BT1-108	Series 1 Booster	Extra	Yellow		1(1)						C
+Frieza’s Call	BT1	BT1-109	BT1-109	Series 1 Booster	Extra	Yellow		1(1)						C
+Crusher Ball	BT1	BT1-110	BT1-110	Series 1 Booster	Extra	Yellow		1(1)						C
