@@ -1,0 +1,122 @@
+<plugin>
+
+  <deckzone>
+    <label>Deck</label>
+    <gamezonetoloadto>Deck</gamezonetoloadto>
+    <shuffle>yes</shuffle>
+  </deckzone>
+
+  <deckzone>
+    <label>Leader</label>
+    <gamezonetoloadto>Leader</gamezonetoloadto>
+  </deckzone>
+
+  <gamezone>
+    <label>Hand</label>
+    <visibletoowner>yes</visibletoowner>
+  </gamezone>
+
+  <gamezone>
+    <label>Deck</label>
+  </gamezone>
+
+  <gamezone>
+    <label>Lives</label>
+  </gamezone>
+
+  <gamezone>
+    <label>Energy</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+  </gamezone>
+
+  <gamezone>
+    <label>Discard</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+  </gamezone>
+
+  <gamezone>
+    <label>Leader</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+  </gamezone>
+
+  <phase><label>Charge</label></phase>
+  <phase><label>Main</label></phase>
+  <phase><label>Battle</label></phase>
+  <phase><label>Counter</label></phase>
+  <phase><label>Combo</label></phase>
+  <phase><label>End</label></phase>
+
+  <generalfunction>
+    <label>Reset Cards</label>
+    <kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+    <includeasbutton>yes</includeasbutton>
+  </generalfunction>
+
+  <generalfunction>
+    <label>Draw</label>
+    <kind>DRAWCARD</kind>
+    <includeasbutton>yes</includeasbutton>
+  </generalfunction>
+
+  <generalfunction>
+    <label>Next Phase</label>
+    <kind>NEXTPHASE</kind>
+  </generalfunction>
+
+  <generalfunction>
+    <label>Previous Phase</label>
+    <kind>PREVIOUSPHASE</kind>
+  </generalfunction>
+
+  <generalfunction>
+    <label>Pass</label>
+    <kind>NEXTTURN</kind>
+    <includeasbutton>yes</includeasbutton>
+  </generalfunction>
+
+  <cardfunction>
+    <label>Active Mode</label>
+    <kind>MAKERIGHT90DEGREES</kind>
+    <includeasbutton>yes</includeasbutton>
+  </cardfunction>
+
+  <cardfunction>
+    <label>Rest Mode</label>
+    <kind>CLEARCARD</kind>
+    <includeasbutton>yes</includeasbutton>
+  </cardfunction>
+
+  <cardfunction>
+    <label>Freeze</label>
+    <kind>TOGGLETURNALLIMMUNITY</kind>
+    <includeasbutton>yes</includeasbutton>
+  </cardfunction>
+
+  <generalfunction>
+    <label>Life +1</label>
+    <kind>TRANSFERCARD</kind>
+    <includeasbutton>yes</includeasbutton>
+  </generalfunction>
+
+  <generalfunction>
+    <label>Roll D6</label>
+    <kind>ROLLD6</kind>
+  </generalfunction>
+
+  <definition>
+    <kind>GRIDSIZE</kind><value>.03</value>
+  </definition>
+
+  <definition>
+    <kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+  </definition>
+
+  <definition>
+    <kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind>
+    <value>owner</value>
+  </definition>
+
+</plugin>
