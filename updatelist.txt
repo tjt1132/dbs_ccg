@@ -4,4 +4,3 @@ plugins/dbs/formats.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master
 plugins/dbs/version.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/version.txt	28124
 plugins/dbs/sets/carddata.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/carddata.txt	65595
 CardGeneralURLs:
-http://www.dbs-cardgame.com/images/cardlist/cardimg/
