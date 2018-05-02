@@ -1,9 +1,10 @@
 dbs	05-02-18
-plugins/dbs/plugininfo.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/plugininfo.txt	195199
-plugins/dbs/formats.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/formats.txt	10828
-plugins/dbs/version.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/version.txt	28124
-plugins/dbs/sets/carddata.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/carddata.txt	57716
+plugins/dbs/plugininfo.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/plugininfo.txt	195785
+plugins/dbs/formats.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/formats.txt	18528
+plugins/dbs/version.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/version.txt	28440
+plugins/dbs/sets/carddata.txt	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/carddata.txt	1082726
 plugins/dbs/bot.jpg	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/images/bot.jpg	31432
 plugins/dbs/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/images/cardback.jpg	-53470
+plugins/dbs/decks/LeadersSeries1.dek	https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/decks/LeadersSeries1.dek	103719
 CardGeneralURLs:
 https://raw.githubusercontent.com/tjt1132/dbs_ccg/master/images/cards

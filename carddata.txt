@@ -1,12 +1,12 @@
 Name	Set	ImageFile	Code	SetName	Type	Color	Power	Energy	ComboPower	ComboEnergy	Character	SpecialTrait	Era	Rarity	Skill
-Super Saiyan God Son Goku	SD1	SD1-01,SD1-01_b	SD1-01	Series 1 Starter	Leader	Blue	10000				Son Goku	Saiyan	Resurrection F Saga	ST
+Super Saiyan God Son Goku / SSGSS Son Goku, The Soul Striker	SD1	SD1-01,SD1-01_b	SD1-01	Series 1 Starter	Leader	Blue	10000/15000				Son Goku	Saiyan	Resurrection F Saga	ST	
 God Rush Son Goku	SD1	SD1-02	SD1-02	Series 1 Starter	Battle	Blue	25000	6(3)	10000	1	Son Goku	Saiyan	Battle of Gods Saga	ST
 SS3 Son Goku, Maximum Energy	SD1	SD1-03	SD1-03	Series 1 Starter	Battle	Blue	20000	5(2)	10000	1	Son Goku	Saiyan	Battle of Gods Saga	ST
 Rapid Spirit Ball Son Goku	SD1	SD1-04	SD1-04	Series 1 Starter	Battle	Blue	15000	3(1)	5000	0	Son Goku	Saiyan	Battle of Gods Saga	ST
 Vegeta, Prince of Speed	SD1	SD1-05	SD1-05	Series 1 Starter	Battle	Blue	20000	5(3)	10000	1	Vegeta	Saiyan	Battle of Gods Saga	ST
-Champa	BT1	BT1-001	BT1-001	Series 1 Booster	Leader	Red	10000				Champa	God	Champa Saga	R	AUTO ONCE PER TURN When your Battle Card attacks a Leader Card, if the attacking card 15000 or more power, draw 1 card. AWAKEN When your life is at 4 or less: You may draw 2 cards and flip this card over.
-Vados	BT1	BT1-002	BT1-002	Series 1 Booster	Leader	Red	10000				Vados	God	Champa Saga	UC
-Hit	BT1	BT1-003	BT1-003	Series 1 Booster	Leader	Red	10000				Hit	Alien	Champa Saga	UC
+Champa / God of Destruction Champa	BT1	BT1-001	BT1-001	Series 1 Booster	Leader	Red	10000/15000				Champa	God	Champa Saga	R	AUTO ONCE PER TURN When your Battle Card attacks a Leader Card, if the attacking card 15000 or more power, draw 1 card. AWAKEN When your life is at 4 or less: You may draw 2 cards and flip this card over.
+Vados / Aide Vados	BT1	BT1-002	BT1-002	Series 1 Booster	Leader	Red	10000/15000				Vados	God	Champa Saga	UC
+Hit / Assassin Hit	BT1	BT1-003	BT1-003	Series 1 Booster	Leader	Red	10000/15000				Hit	Alien	Champa Saga	UC
 Destructive Terror Champa	BT1	BT1-004	BT1-004	Series 1 Booster	Battle	Red	25000	6(2)	10000	1	Champa	God	Champa Saga	SR
 Furthering Destruction Champa	BT1	BT1-005	BT1-005	Series 1 Booster	Battle	Red	16000	3(2)	10000	1	Champa	God	Champa Saga	UC
 Scheming Champa	BT1	BT1-006	BT1-006	Series 1 Booster	Battle	Red	10000	2(1)	5000	0	Champa	God	Champa Saga	C
@@ -32,9 +32,9 @@ Assasination Plot	BT1	BT1-024	BT1-024	Series 1 Booster	Extra	Red		4(2)						C
 Vados’s Assistance	BT1	BT1-025	BT1-025	Series 1 Booster	Extra	Red		1(1)						C
 Fickle Destruction	BT1	BT1-026	BT1-026	Series 1 Booster	Extra	Red		1(1)						C
 Cabba’s Awakening	BT1	BT1-027	BT1-027	Series 1 Booster	Extra	Red		0(0)						C
-Vegeta	BT1	BT1-028	BT1-028	Series 1 Booster	Leader	Blue	10000				Vegeta	Saiyan	Resurrection F Saga	R
-Beerus	BT1	BT1-029	BT1-029	Series 1 Booster	Leader	Blue	10000				Beerus	God	Battle of Gods Saga	UC
-Son Goku	BT1	BT1-030	BT1-030	Series 1 Booster	Leader	Blue	10000				Son Goku	Saiyan	Resurrection F Saga	UC
+Vegeta / Super Saiyan Blue Vegeta	BT1	BT1-028	BT1-028	Series 1 Booster	Leader	Blue	10000/15000				Vegeta	Saiyan	Resurrection F Saga	R
+Beerus / Beerus, God of Destruction	BT1	BT1-029	BT1-029	Series 1 Booster	Leader	Blue	10000/15000				Beerus	God	Battle of Gods Saga	UC
+Son Goku / Super Saiyan Blue Son Goku	BT1	BT1-030	BT1-030	Series 1 Booster	Leader	Blue	10000/15000				Son Goku	Saiyan	Resurrection F Saga	UC
 God Break Son Goku	BT1	BT1-031	BT1-031	Series 1 Booster	Battle	Blue	30000	7(3)	10000	1	Son Goku	Saiyan	Resurrection F Saga	SR
 God Break Son Goku	BT1	BT1-031_SPR	BT1-031_SPR	Series 1 Booster	Battle	Blue	30000	7(3)	10000	1	Son Goku	Saiyan	Resurrection F Saga	SPR
 Overflowing Spirit SSGSS Son Goku	BT1	BT1-032	BT1-032	Series 1 Booster	Battle	Blue	15000	4(2)	10000	1	Son Goku	Saiyan	Champa Saga	UC
@@ -61,9 +61,9 @@ Objection	BT1	BT1-052	BT1-052	Series 1 Booster	Extra	Blue		2(1)						C
 Senzu Bean	BT1	BT1-053	BT1-053	Series 1 Booster	Extra	Blue		1(1)						C
 Encouraging Presence Monaka	BT1	BT1-054	BT1-054	Series 1 Booster	Extra	Blue		1(1)						C
 Whis’s Coercion	BT1	BT1-055	BT1-055	Series 1 Booster	Extra	Blue		1(1)						C
-Son Goku	BT1	BT1-056	BT1-056	Series 1 Booster	Leader	Green	10000				Son Goku	Saiyan	Battle of Gods Saga	UC
-Broly	BT1	BT1-057	BT1-057	Series 1 Booster	Leader	Green	10000				Broly	Saiyan	Broly Saga	R
-Son Gohan	BT1	BT1-058	BT1-058	Series 1 Booster	Leader	Green	10000				Son Gohan: Adolescence	Saiyan/Earthling	Battle of Gods Saga	UC
+Son Goku / Super Saiyan God Son Goku	BT1	BT1-056	BT1-056	Series 1 Booster	Leader	Green	10000/15000				Son Goku	Saiyan	Battle of Gods Saga	UC
+Broly / Broly, The Legendary Super Saiyan	BT1	BT1-057	BT1-057	Series 1 Booster	Leader	Green	10000/15000				Broly	Saiyan	Broly Saga	R
+Son Gohan / Full Power Son Gohan	BT1	BT1-058	BT1-058	Series 1 Booster	Leader	Green	10000/15000				Son Gohan: Adolescence	Saiyan/Earthling	Battle of Gods Saga	UC
 Awakening Rage Son Goku	BT1	BT1-059	BT1-059	Series 1 Booster	Battle	Green	25000	6(2)	10000	1	Son Goku	Saiyan	Frieza Saga	SR
 Son Goku	BT1	BT1-060	BT1-060	Series 1 Booster	Battle	Green	15000	2(1)	5000	0	Son Goku	Saiyan	Battle of Gods Saga	C
 Friend-Summoning Son Gohan	BT1	BT1-061	BT1-061	Series 1 Booster	Battle	Green	10000	2(1)	5000	0	Son Gohan: Youth	Saiyan/Earthling	Frieza Saga	UC
@@ -89,9 +89,9 @@ King Vegeta’s Surprise Attack	BT1	BT1-079	BT1-079	Series 1 Booster	Extra	Green
 Full Power Energy	BT1	BT1-080	BT1-080	Series 1 Booster	Extra	Green		1(1)						C
 Broly’s Ring	BT1	BT1-081	BT1-081	Series 1 Booster	Extra	Green		1(1)						C
 Family Kamehameha	BT1	BT1-082	BT1-082	Series 1 Booster	Extra	Green		1(1)						C
-Frieza	BT1	BT1-083	BT1-083	Series 1 Booster	Leader	Yellow	10000				Frieza	Frieza Clan/Frieza’s Army	Resurrection F Saga	R
-Frieza	BT1	BT1-084	BT1-084	Series 1 Booster	Leader	Yellow	10000				Frieza	Frieza Clan/Frieza’s Army	Frieza Saga	UC
-Ginyu	BT1	BT1-085	BT1-085	Series 1 Booster	Leader	Yellow	10000				Ginyu	Ginyu Force/Frieza’s Army	Frieza Saga	UC
+Frieza / Ultimate Form Golden Frieza	BT1	BT1-083	BT1-083	Series 1 Booster	Leader	Yellow	10000/15000				Frieza	Frieza Clan/Frieza’s Army	Resurrection F Saga	R
+Frieza / Frieza, The Galactic Emperor	BT1	BT1-084	BT1-084	Series 1 Booster	Leader	Yellow	10000/15000				Frieza	Frieza Clan/Frieza’s Army	Frieza Saga	UC
+Ginyu / Ginyu, The Malicious Transformation	BT1	BT1-085	BT1-085	Series 1 Booster	Leader	Yellow	10000/15000				Ginyu	Ginyu Force/Frieza’s Army	Frieza Saga	UC
 Golden Frieza, Resurrected Terror	BT1	BT1-086	BT1-086	Series 1 Booster	Battle	Yellow	30000	7(3)	10000	1	Frieza	Frieza Clan/Frieza’s Army	Resurrection F Saga	SR
 Golden Frieza, Resurrected Terror	BT1	BT1-086_SPR	BT1-086_SPR	Series 1 Booster	Battle	Yellow	30000	7(3)	10000	1	Frieza	Frieza Clan/Frieza’s Army	Resurrection F Saga	SPR
 Full-Power Frieza	BT1	BT1-087	BT1-087	Series 1 Booster	Battle	Yellow	25000	6(2)	10000	1	Frieza	Frieza Clan/Frieza’s Army	Frieza Saga	R

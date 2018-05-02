@@ -1,8 +1,13 @@
 <formatdefinitions>
 
 <format>
-     <label>Starter Set 1 - The Awakening</label>
+     <label>Series 1 Starter - The Awakening</label>
      <set>SD1</set>
+</format>
+
+<format>
+     <label>Series 1 Booster - Galactic Battle</label>
+     <set>BT1</set>
 </format>
 
 </formatdefinitions>

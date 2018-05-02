@@ -1,0 +1,20 @@
+<deck version="0.8">
+	<meta>
+		<game>dbs</game>
+	</meta>
+	<superzone name="Leader">
+		<card><name id="SD1-01,SD1-01_b">Super Saiyan God Son Goku / SSGSS Son Goku, The Soul Striker</name><set>SD1</set></card>
+		<card><name id="BT1-001">Champa / God of Destruction Champa</name><set>BT1</set></card>
+		<card><name id="BT1-002">Vados / Aide Vados</name><set>BT1</set></card>
+		<card><name id="BT1-003">Hit / Assassin Hit</name><set>BT1</set></card>
+		<card><name id="BT1-028">Vegeta / Super Saiyan Blue Vegeta</name><set>BT1</set></card>
+		<card><name id="BT1-029">Beerus / Beerus, God of Destruction</name><set>BT1</set></card>
+		<card><name id="BT1-030">Son Goku / Super Saiyan Blue Son Goku</name><set>BT1</set></card>
+		<card><name id="BT1-056">Son Goku / Super Saiyan God Son Goku</name><set>BT1</set></card>
+		<card><name id="BT1-057">Broly / Broly, The Legendary Super Saiyan</name><set>BT1</set></card>
+		<card><name id="BT1-058">Son Gohan / Full Power Son Gohan</name><set>BT1</set></card>
+		<card><name id="BT1-083">Frieza / Ultimate Form Golden Frieza</name><set>BT1</set></card>
+		<card><name id="BT1-084">Frieza / Frieza, The Galactic Emperor</name><set>BT1</set></card>
+		<card><name id="BT1-085">Ginyu / Ginyu, The Malicious Transformation</name><set>BT1</set></card>
+	</superzone>
+</deck>
